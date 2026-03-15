@@ -19,10 +19,11 @@ Python 및 AI 도구(Claude, Cursor)를 활용하여
 
 ### 03. Asia Momentum Strategy Backtest
 - 한국(KOSPI)·일본(Nikkei)·홍콩(HSI) 45개 종목 대상
-  12개월 모멘텀 기반 월별 리밸런싱 전략 백테스트
-- 매월말 기준 최근 12개월 수익률 상위 10개 종목 선정하여 동일비중으로 다음달 보유 후 리밸런싱 반복
-- Look-ahead bias 방지를 위해 모멘텀 점수 1개월 시차 적용
-- 거래비용 미반영 및 Survivorship Bias로 인해 실제 수익률과는 차이가 있을 수 있음.
+  12개월 누적 수익률 기반 월별 리밸런싱 전략 백테스트
+- 매월말 12개월 누적 수익률 상위 10개 종목을 동일비중으로 편입 후 익월 리밸런싱 반복
+- Look-ahead bias 방지를 위해 모멘텀 팩터값 1개월 시차 적용
+- 거래비용 미반영으로 실제 수익률과 차이 존재
+- yfinance 기반 분석으로 현재 상장된 종목만 포함, Survivorship Bias 가능성 있음.
 
 ## Key Findings
 - 가격 기반 팩터(모멘텀+PBR) 최하위 종목(TSMC)이
