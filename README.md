@@ -25,6 +25,6 @@ Python 및 AI 도구(Claude, Cursor)를 활용하여
 
 ## Tools & Skills
 - Python (pandas, yfinance, matplotlib, seaborn, scipy)
-- Cursor AI — 코드 생성 및 자동화
-- Claude — 분석 설계 및 리서치 워크플로우 구축
+- Cursor AI/Chat GPT — 코드 생성 및 교차검증
+- Claude — 코드생성 및 분석 보조
 - Jupyter Notebook
