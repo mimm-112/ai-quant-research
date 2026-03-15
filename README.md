@@ -17,7 +17,7 @@ Python 및 AI 도구(Claude, Cursor)를 활용하여
 - 발표 후 20일간 종목별 모멘텀 지속성 비교
 - 사용 기술: Python, pandas, yfinance, seaborn
 
-  ### 03. Asia Momentum Strategy Backtest
+### 03. Asia Momentum Strategy Backtest
 - 한국(KOSPI)·일본(Nikkei)·홍콩(HSI) 45개 종목 대상
   12개월 모멘텀 기반 월별 리밸런싱 전략 백테스트
 - 매월말 기준 최근 12개월 수익률 상위 10개 종목 선정하여 동일비중으로 다음달 보유 후 리밸런싱 반복
