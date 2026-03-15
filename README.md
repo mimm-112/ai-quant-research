@@ -30,6 +30,8 @@ Python 및 AI 도구(Claude, Cursor)를 활용하여
   실적 발표 후 Day+20 기준 최고 수익률(+9.25%) 달성
 - EPS 컨센서스 데이터 기반 Earnings Surprise 팩터 추가 필요성 확인
 - 발표 당일 강한 반응이 반드시 지속적 상승을 보장하지 않음
+- 아시아 3개 시장 45개 종목 대상 12개월 모멘텀 전략 백테스트
+  (2018-2025 누적수익률 3.64x, Sharpe 0.996, MDD -20.34% 단, 거래비용 미반영)
 
 ## Tools & Skills
 - Python (pandas, yfinance, matplotlib, seaborn, scipy)
