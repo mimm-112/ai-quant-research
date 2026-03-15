@@ -1,5 +1,3 @@
-# ai-quant-research
-Multi-factor Screening &amp; Earnings Surprise Momentum Analysis
 # AI Quant Research — Asia Equity Factor Analysis
 
 ## Overview
