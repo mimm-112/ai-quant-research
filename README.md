@@ -14,7 +14,7 @@ Python 및 AI 도구(Claude, Cursor)를 활용하여
 ### 02. Earnings Announcement — Stock Price Reaction Analysis
 - 실적 발표 후 주가 반응 분석
 - Day-1 기준점 설정을 통한 측정 방법론 개선
-- 발표 후 20일간 종목별 모멘텀 지속성 비교
+- 발표 후 20일간 종목별 주가 반응 지속성 비교
 - 사용 기술: Python, pandas, yfinance, seaborn
 
 ### 03. Asia Momentum Strategy Backtest
